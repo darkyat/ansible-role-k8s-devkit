@@ -218,3 +218,4 @@ yum_packages:
   - name: vim-enhanced
   - name: yadm
   - name: zsh
+  - name: https://prerelease.keybase.io/keybase_i386.rpm
